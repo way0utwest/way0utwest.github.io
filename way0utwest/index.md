@@ -5,4 +5,6 @@
 layout: home
 ---
 
-Steve Jones - [@way0utwest](https://twitter.com/way0utwest/)
+* Steve Jones
+
+You can contact Steve on Twitter at [@way0utwest](https://twitter.com/way0utwest/)
