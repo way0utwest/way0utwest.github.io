@@ -1,18 +1,8 @@
-# Friday Theme
+# Way0utWest  
 
-## A Bootstrap 4 portfolio and blog theme for Jekyll
+This is a general repo for tracking the career of Steve Jones aka way0utwest
 
-* Example 1: This repo builds directly to GitHub pages, which is also the documentation:  https://sfreytag.github.io/friday-theme/
-* Example 2: my own homepage, http://www.freytag.org.uk
+## Repo
 
-## Get Started
+This repository serves as the basis for the GitHub Pages site that presents all the information. This is a test of formatting and building with Jekyll.
 
-Follow the [install notes](https://sfreytag.github.io/friday-theme/projects/install.html).
-
-## Usage
-
-The theme is free to use, but if you do use it, it would be great to hear from you. Email simon@freytag.org.uk - thanks!
-
-## Jekyll Version
-
-__Watch out!__ This theme uses {{site.baseurl}} throughout, so is not currently suitable for Jekyll 4. It works well with 3.8.5 and works well with GitHub Pages.
